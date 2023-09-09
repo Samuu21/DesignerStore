@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Malgré",
+    "slug": "malgre",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./images/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "43b25fa5-8e09-4256-932b-04397222624c"
+      }
+    },
+    "owner": "samuu13"
+  }
+}

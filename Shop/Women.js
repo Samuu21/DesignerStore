@@ -1,0 +1,26 @@
+const Women = {
+    Dresses: require('../images/Categories/Women/Dresses.jpg'),
+    Sets: require('../images/Categories/Women/Sets.jpg'),
+    Tops: require('../images/Categories/Women/Tops.jpg'),
+    T_Shirts: require('../images/Categories/Women/T-Shirts.jpg'),
+    Shirts: require('../images/Categories/Women/Shirts.jpg'),
+    Skirts: require('../images/Categories/Women/Skirts.jpg'),
+    Swimwear: require('../images/Categories/Women/Swimwear.jpg'),
+    Jeans: require('../images/Categories/Women/Jeans.jpg'),
+    Pants: require('../images/Categories/Women/Pants.jpg'),
+    Jumpsuits: require('../images/Categories/Women/Jumpsuits.jpg'),
+    Hoodies: require('../images/Categories/Women/Hoodies.jpg'),
+    Jackets: require('../images/Categories/Women/Jackets.jpg'),
+    Knitwear: require('../images/Categories/Women/Knitwear.jpg'),
+    Joggers: require('../images/Categories/Women/Joggers.jpg'),
+    Leggings: require('../images/Categories/Women/Leggings.jpg'),
+    Activewear: require('../images/Categories/Women/Activewear.jpg'),
+    Sleepwear: require('../images/Categories/Women/Sleepwear.jpg'),
+    Socks: require('../images/Categories/Women/Socks.jpg'),
+    Bras: require('../images/Categories/Women/Bras.jpg'),
+    Panties: require('../images/Categories/Women/Panties.jpg'),
+    Bodysuits: require('../images/Categories/Women/Bodysuits.jpg'),
+    Bags: require('../images/Categories/Women/Bags.jpg'),
+}
+
+export default Women;
